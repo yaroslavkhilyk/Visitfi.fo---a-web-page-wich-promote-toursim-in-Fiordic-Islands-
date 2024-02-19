@@ -1,4 +1,4 @@
-Visitfi.fo - it`s non real project, wchich promotes travel possibilities in Fiordic Island. 
+#Visitfi.fo - it`s non real project, wchich promotes travel possibilities in Fiordic Island. 
 
 TECHNICAL PARAMETERS OF THIS PROJECT:
 
