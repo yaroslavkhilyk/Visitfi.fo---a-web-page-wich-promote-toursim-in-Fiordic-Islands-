@@ -6,8 +6,8 @@ CODE WRITTING METHOD: CODE WITH INSTRUCTOR (CwI); Instructor: Mateusz Maj
 
 ## TECHNOLOGIES, WHICH WAS USED TO MAKE THIS PROJECT:
 
-* [HTML]
-* [CSS/SASS]
-* [Slack]
-* [JavaScript]
+* HTML
+* CSS/SASS
+* Slick
+* JavaScript
 
