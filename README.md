@@ -17,5 +17,5 @@ LINK TO PROJECT: https://yaroslavkhilyk.github.io/Visitfi.fo---a-web-page-wich-p
 
 ## MAIN GOALS OF THIS PROJECT:
 
-My main goals while I was working on this project were to deepen my understanding of HTML, CSS/SASS, JavaScript, Bootstrap technologies and various type of animation, and to learn how to use my knowledge about responsive web design in practice.
+My main goals while I was working on this project were to deepen my knowledge of HTML, CSS/SASS, JavaScript technologies, and to learn good practices for creating responsive and user-friendly websites. Also after i have finished this project i have learned, how to create professional elements on the web-page (buttons/cards).
 
