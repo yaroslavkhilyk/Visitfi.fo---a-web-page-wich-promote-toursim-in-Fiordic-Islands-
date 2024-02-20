@@ -1,4 +1,6 @@
-# Visitfi.fo - it`s non real project, wchich promotes travel possibilities in Fiordic Island. 
+# Visitfi.fo 
+
+it`s non real project, wchich promotes travel possibilities in Fiordic Island. 
 
 ## TECHNICAL PARAMETERS OF THIS PROJECT:
 
@@ -12,4 +14,8 @@ LINK TO PROJECT: https://yaroslavkhilyk.github.io/Visitfi.fo---a-web-page-wich-p
 * CSS/SASS
 * Slick
 * JavaScript
+
+## MAIN GOALS OF THIS PROJECT:
+
+My main goals while I was working on this project were to deepen my understanding of HTML, CSS/SASS, JavaScript, Bootstrap technologies and various type of animation, and to learn how to use my knowledge about responsive web design in practice.
 
