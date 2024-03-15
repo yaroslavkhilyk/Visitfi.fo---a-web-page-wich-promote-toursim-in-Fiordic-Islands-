@@ -6,7 +6,9 @@ it`s non real project, which promotes travel possibilities in Fiordic Island.
 
 ROLE: CODE WITH INSTRUCTOR (CwI); Instructor: Mateusz Maj;
 
-LINK TO PROJECT: https://yaroslavkhilyk.github.io/Visitfi.fo---a-web-page-wich-promote-toursim-in-Fiordic-Islands-/
+## LINK TO PROJECT: 
+
+https://yaroslavkhilyk.github.io/Visitfi.fo---a-web-page-wich-promote-toursim-in-Fiordic-Islands-/
 
 ## TECHNOLOGIES, WHICH WERE USED TO MAKE THIS PROJECT:
 
